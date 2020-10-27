@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
   <>
     <p>Hi, I'm the home page!</p>
-    <p>D-:</p>
+    <p>:-D</p>
   </>);
 }
  
