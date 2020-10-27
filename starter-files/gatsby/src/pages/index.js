@@ -1,11 +1,12 @@
 import React from 'react'
-import Nav from '../components/Nav';
+import Layout from '../components/Layout';
 
 const HomePage = () => {
-  return ( <div>
-  <Nav />
+  return (
+  <>
     <p>Hi, I'm the home page!</p>
-  </div> );
+    <p>D-:</p>
+  </>);
 }
  
 export default HomePage;

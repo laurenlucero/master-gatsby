@@ -1,9 +1,9 @@
 import React from 'react';
 
 const Orders = () => {
-  return ( <div>
+  return ( <>
     <p>Hi, I'm the orders page!</p>
-  </div>  );
+  </>  );
 }
  
 export default Orders;
